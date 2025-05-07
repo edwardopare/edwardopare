@@ -18,6 +18,6 @@ I'm an aspiring data analyst passionate about helping organizations make data-dr
 
 📫 **Let’s Connect!**  
 - Email: [edwop68@gmail.com](mailto:edwop68@gmail.com)  
-- LinkedIn: [Your LinkedIn Profile](nkedin.com/in/edward-opare-yeboah/)   
+- LinkedIn: [LinkedIn Profile] (https://www.linkedin.com/in/edward-opare-yeboah/)   
 - Portfolio: datascienceportfol.io/edwop
 
