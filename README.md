@@ -11,7 +11,7 @@ I'm an aspiring data analyst passionate about helping organizations make data-dr
 
 🌱 **Currently Learning**  
 - Dax   
-- Advanced Data Analysis with Python 
+- Advance Data Analysis with Python 
 
 📊 **My Data Philosophy**  
 > *"Data is only as valuable as the decisions it informs."* I focus on clarity, accuracy, and actionable insights.  
