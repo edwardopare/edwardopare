@@ -2,7 +2,7 @@
 ### Data Analyst | Turning Raw Data into Actionable Insights  
 
 🔍 **About Me**  
-I'm an aspiring data analyst passionate about helping organizations make data-driven decisions. I work on real-world projects to sharpen my skills in **Excel, SQL, Power BI, and Python**—and I'm actively looking for an entry-level analyst role.  
+I am an entry level data analyst passionate about helping organizations make data-driven decisions. I work on real-world projects to sharpen my skills in **Excel, SQL, Power BI, and Python**—and I'm actively looking for an entry-level analyst role.  
 
 🚀 **Skills & Tools**  
 - **Data Analysis**: Excel (80%), Google Sheet (80%), SQL (80%), Python (50%)  
