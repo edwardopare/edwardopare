@@ -5,8 +5,8 @@
 I am an entry level data analyst passionate about helping organizations make data-driven decisions. I work on real-world projects to sharpen my skills in **Excel, SQL, Power BI, and Python**—and I'm actively looking for opportunities.  
 
 🚀 **Skills & Tools**  
-- **Data Analysis**: Excel (80%), Google Sheet (80%), SQL (80%), Python (50%)  
-- **Data Visualization**: Power BI (80%) 
+- **Data Analysis**: Excel, Google Sheet, SQL, Python  
+- **Data Visualization**: Power BI 
 - **Other**: Data Cleaning, Statistical Analysis, Dashboarding   
 
 🌱 **Currently Learning**  
