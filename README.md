@@ -6,12 +6,11 @@ I am an entry level data analyst passionate about helping organizations make dat
 
 🚀 **Skills & Tools**  
 - **Data Analysis**: Excel, Google Sheet, SQL, Python  
-- **Data Visualization**: Power BI 
+- **Data Visualization**: Power BI
+- ** Machine Learning** 
 - **Other**: Data Cleaning, Statistical Analysis, Dashboarding   
 
-🌱 **Currently Learning**  
-- Dax   
-- Advanced Data Analysis with Python 
+
 
 📊 **My Data Philosophy**  
 > *"Data is only as valuable as the decisions it informs."* I focus on clarity, accuracy, and actionable insights.  
