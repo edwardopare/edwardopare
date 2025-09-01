@@ -7,7 +7,7 @@ I am an entry level data analyst passionate about helping organizations make dat
 🚀 **Skills & Tools**  
 - **Data Analysis**: Excel, Google Sheet, SQL, Python  
 - **Data Visualization**: Power BI
-- ** Machine Learning** 
+- **Machine Learning**
 - **Other**: Data Cleaning, Statistical Analysis, Dashboarding   
 
 
