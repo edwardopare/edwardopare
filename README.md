@@ -18,5 +18,5 @@ I am an entry level data analyst passionate about helping organizations make dat
 📫 **Let’s Connect!**  
 - Email: [edwop68@gmail.com](mailto:edwop68@gmail.com)  
 - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/edward-opare-yeboah/)   
-- Portfolio: [Portfolio Profile](datascienceportfol.io/edwop)
+- Portfolio: [Portfolio Profile](https://www.datascienceportfol.io/edwop)
 
